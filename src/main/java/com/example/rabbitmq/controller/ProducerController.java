@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.rabbitmq.service.MessageProducer;
 
+// this is controller
+
 @RestController
 @RequestMapping("/api")
 public class ProducerController {
